@@ -1,0 +1,13 @@
+MY9-5049 Practice Problem Scores
+PP1	PP2	PP3	PP4	PP5	PP6
+2	6	6	6	6	6
+
+MY9-5049 Lab Scores
+L1	L2	L3	L4
+1	2	2	0
+
+MY9-5049 Midterm Scores
+M1	M2
+10	7
+
+MY9-5049 letter grade is A
